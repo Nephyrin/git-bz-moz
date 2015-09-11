@@ -1,0 +1,3 @@
+[submodule "bzexport"]
+	path = bzexport
+	url = https://github.com/Nephyrin/bzexport
